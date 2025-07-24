@@ -1,17 +1,22 @@
-# Hello World! My name is Felipe de assis
-**`Student (Developer)`**
+# Hello World! I'm Felipe de Assis 👋
+
+**`Student | Aspiring Developer`**
+
 <p>
-  Hi, i'm a studant Dev. I started recently study about Dev.
-
-  - 🌱 I’m currently studying Python, HTML, CSS, MySQL, Java.
-
-  - 🔭 I am looking for my first job opportunity.
+  Hey there! I'm a curious and passionate student diving into the world of development.
+  
+  - 🌱 Currently learning Python for Data Science, HTML, CSS, MySQL, and JavaScript.
+  - 🔭 Actively looking for my first opportunity as a Junior Developer.
 </p>
+
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have intermediary level in English and have experience with Python. I am just a student who wants to start in career as a DEV Junior.
-  - ⚡ I enjoy reading manga, or comics, as well as watching movies and i love playing games! I have good comunication and i enjoy interact another persons and meet they.
+  - 🧠 I'm 19, based in Brazil, and studying Systems Analysis and Development.
+  - 💬 Intermediate English speaker, with hands-on experience in Python and database basics.
+  - 📚 I'm a lifelong learner — curious by nature, always exploring new tech, stories, and ideas.
+  - 🎮 I love reading manga and comics, watching good movies, and playing games (specially story-driven ones).
+  - 🤝 I'm communicative, easygoing, and I genuinely enjoy connecting with people and sharing knowledge.
 </details>
 
 </p>
