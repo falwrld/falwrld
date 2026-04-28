@@ -12,7 +12,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 🧠 I'm 19, based in Brazil, and studying Systems Analysis and Development.
+  - 🧠 I'm 20, based in Brazil, and studying Systems Analysis and Development.
   - 💬 Intermediate English speaker, with hands-on experience in Python and database basics.
   - 📚 I'm a lifelong learner — curious by nature, always exploring new tech, stories, and ideas.
   - 🎮 I love reading manga and comics, watching good movies, and playing games (specially story-driven ones).
