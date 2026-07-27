@@ -1,4 +1,4 @@
-# Hello World! I'm Felipe de Assis 👋
+# Hello World! I'm Felipe de Assis 
 
 **`Student | Aspiring Developer`**
 
@@ -14,7 +14,7 @@
 
   - 🧠 I'm 20, based in Brazil, and studying Systems Analysis and Development.
   - 💬 Intermediate English speaker, with hands-on experience in Python and database basics.
-  - 📚 I'm a lifelong learner — curious by nature, always exploring new tech, stories, and ideas.
+  - 📚 curious by nature, always exploring new tech, stories, and ideas.
   - 🎮 I love reading manga and comics, watching good movies, and playing games (specially story-driven ones).
   - 🤝 I'm communicative, easygoing, and I genuinely enjoy connecting with people and sharing knowledge.
 </details>
