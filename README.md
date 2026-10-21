@@ -1,67 +1,58 @@
-# Hello World! I'm Felipe de Assis 
-
-**`Student | Aspiring Developer`**
-
-<p>
-  Hey there! I'm a curious and passionate student diving into the world of development.
-  
-  - 🌱 Currently learning Python for Data Science, HTML, CSS, MySQL, and JavaScript.
-  - 🔭 Actively looking for my first opportunity as a Junior Developer.
-</p>
-
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 🧠 I'm 20, based in Brazil, and studying Systems Analysis and Development.
-  - 💬 Intermediate English speaker, with hands-on experience in Python and database basics.
-  - 📚 curious by nature, always exploring new tech, stories, and ideas.
-  - 🎮 I love reading manga and comics, watching good movies, and playing games (specially story-driven ones).
-  - 🤝 I'm communicative, easygoing, and I genuinely enjoy connecting with people and sharing knowledge.
-</details>
-
-</p>
-
-
-
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=falwrld&show_icons=true&theme=dark />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=falwrld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+
+# 👋 Olá, eu sou o Felipe de Assis!
+
+### 💻 Estagiário em TI | Estudante de ADS | Aspiring Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-assis-lima-b23a7a2a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedeassis.conta@hotmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
 </div>
 
+---
 
+### 🚀 Sobre mim
 
-<h2 align="left">My Contact</h2>
+- 🧠 **Idade:** 20 anos | **Local:** Brasil 🇧🇷
+- 💼 **Momento atual:** Atuando como **Estagiário de TI** e em constante aprendizado.
+- 🎓 **Formação:** Estudando Análise e Desenvolvimento de Sistemas.
+- 🌱 **Tecnologias no radar:** Python para Data Science, HTML, CSS, MySQL e JavaScript.
+- 🔭 **Objetivo:** Desenvolver minha carreira na área de tecnologia e buscar minha oportunidade como Desenvolvedor Júnior.
+- 💬 **Idioma:** Inglês intermediário.
+- 💡 **Perfil:** **Curioso** e **criativo** por natureza, comunicativo, fácil de lidar e apaixonado por aprender, compartilhar conhecimento e resolver problemas.
 
-###
+---
 
-<img align="left" height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTN6Zm42cWVkNzkxZWYza2pxd25pYTRueGZwZHpscTBtZGJrODBoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EQ88Iy3rtICNP4Ufl0/giphy.gif"  />
-
-###
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="felipedeassis.conta@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-assis-lima-b23a7a2a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+| Linguagens & Bancos de Dados | Ferramentas & Ambientes |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40" alt="GitHub" /> |
+
 </div>
 
-###
+---
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+### 🎮 Fora do Código
+Sempre explorando novas ideias, tecnologias e histórias. No meu tempo livre você vai me encontrar:
+- 📚 Lendo mangás e quadrinhos.
+- 🎬 Assistindo a bons filmes.
+- 🎮 Jogando (especialmente games focados em história e narrativa).
 
-###
+---
 
-#
-<div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+### 📊 Estatísticas do GitHub
 
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=falwrld&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=falwrld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" width="48%" alt="languages graph" />
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
